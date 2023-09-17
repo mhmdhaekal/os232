@@ -2,6 +2,11 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 
+ZCZC W02 90 L09 Weekly assignment related
+ZCZC W02 90 L02 Classroom related
+ZCZC W02 05 L07 Week 2 demo related
+ZCZC W02 12 L05 Quiz related
+ZCZC W02 90 L09 Weekly assignment related
 ZCZC W01 12 L05 Quiz related
 ZCZC W01 90 L09 Weekly assignment related
 ZCZC W01 10 L07 Week 1 demo related
