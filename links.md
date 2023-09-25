@@ -26,5 +26,14 @@ These cheat sheet will help you in case you get confused while using sort comman
 * [grep manual](https://www.gnu.org/software/grep/manual/grep.html#Back_002dreferences-and-Subexpressions) --- Manual for `grep` command
 These manual will help you understand grep including, how it works and all argumnets of grep command in bash.
 
+* [How to Compress and Extract Files Using the tar Command on Linux](https://www.howtogeek.com/248780/how-to-compress-and-extract-files-using-the-tar-command-on-linux/) --- compress and extract using tar command
+These will help you in case you want to compress or extract using tar in Linux.
+
+* [Learn Makefiles](https://makefiletutorial.com) --- Makefile tutorial
+These will help you to understand creating Makefile to compile c program.
+
+* [General overview of the Linux file system](https://tldp.org/LDP/intro-linux/html/sect_03_01.html) --- Linux file system overview
+These will help you to understand linux file system.
+
 <br>
 <hr> 
