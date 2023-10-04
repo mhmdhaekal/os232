@@ -35,5 +35,14 @@ These will help you to understand creating Makefile to compile c program.
 * [General overview of the Linux file system](https://tldp.org/LDP/intro-linux/html/sect_03_01.html) --- Linux file system overview
 These will help you to understand linux file system.
 
+* [How to Use SCP Command to Securely Transfer Files](https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files/) --- SCP command tutorial to copy files using scp
+These will help you to copying file using scp.
+
+* [Pointers in C](https://linuxhint.com/use-pointers-c/#:~:text=Pointers%20are%20the%20most%20important,which%20we%20want%20to%20point.) --- Pointers memory in C
+These will help you to understanding pointer to memory in c.
+
+* [big-endian and little-endian](https://www.techtarget.com/searchnetworking/definition/big-endian-and-little-endian) --- Big Endian and Little Endian
+These will help you to understanding use of and definition of big-endian and little-endian.
+
 <br>
 <hr> 
