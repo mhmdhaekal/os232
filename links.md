@@ -44,5 +44,14 @@ These will help you to understanding pointer to memory in c.
 * [big-endian and little-endian](https://www.techtarget.com/searchnetworking/definition/big-endian-and-little-endian) --- Big Endian and Little Endian
 These will help you to understanding use of and definition of big-endian and little-endian.
 
+* [Managing and optimizing memory in Linux](https://www.site24x7.com/learn/linux/optimize-memory.html#:~:text=The%20entire%20memory%20in%20Linux,space%20from%20the%20hard%20disk.) --- Virtual Memory in linux
+These will help you understanding the way memory works in linux.
+
+* [Memory Layout of C Programs](https://www.geeksforgeeks.org/memory-layout-of-c-program/) --- Memory Layout of C Program
+These will help you understanding memory layout when using C programs.
+
+* [C - Memory Management](https://www.tutorialspoint.com/cprogramming/c_memory_management.htm) --- C Memory Management
+These will help you understanding memory management when writing program in C.
+
 <br>
 <hr> 
