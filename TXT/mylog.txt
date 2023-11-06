@@ -2,6 +2,9 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 
+ZCZC W06 10 L03 Github related
+ZCZC W06 10 L07 Week 6 demo related
+ZCZC W06 90 L09 Weekly assignment related
 ZCZC W05 15 L05 Quiz related
 ZCZC W05 10 L03 Github related
 ZCZC W05 90 L09 Weekly assignment related

@@ -11,3 +11,6 @@ ZCZC W04 pershyfon
 ZCZC W05 RafliMahesa
 ZCZC W05 raissaputi
 ZCZC W05 rafizia
+ZCZC W06 RobertBenyamin
+ZCZC W06 rzapriono
+ZCZC W06 SamuelFarrel

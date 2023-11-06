@@ -53,5 +53,14 @@ These will help you understanding memory layout when using C programs.
 * [C - Memory Management](https://www.tutorialspoint.com/cprogramming/c_memory_management.htm) --- C Memory Management
 These will help you understanding memory management when writing program in C.
 
+* [fork() in C](https://www.geeksforgeeks.org/fork-system-call/) --- Fork in C
+These will help you understanding concept of fork in C.
+
+* [Concurrency](https://web.mit.edu/6.005/www/fa14/classes/17-concurrency/#:~:text=Concurrency%20means%20multiple%20computations%20are,cores%20on%20a%20single%20chip) --- Concurrency
+These will help you understanding Concurrency, how it work, and benefits of concurrency.
+
+* [Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/) -- Virtual Memory
+These will explain about virtual memory in operating system.
+
 <br>
 <hr> 
