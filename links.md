@@ -62,5 +62,14 @@ These will help you understanding Concurrency, how it work, and benefits of conc
 * [Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/) -- Virtual Memory
 These will explain about virtual memory in operating system.
 
+* [Process Synchronization in OS](https://www.scaler.com/topics/operating-system/process-synchronization-in-os/) --- Process Synchronization in Operating System
+These will help you understand process synchronization in operating system.
+
+* [What is shared memory in the OS?](https://www.tutorialspoint.com/what-is-shared-memory-in-the-os) --- Shared memory in Operating System
+These will explain what is shared memory and how it works.
+
+* [IPC through Shared Memory](https://www.javatpoint.com/ipc-through-shared-memory) --- Inter-process Communication through shared memory
+These will help you understand application of shared memory in Inter-process Communication (IPC).
+
 <br>
 <hr> 
