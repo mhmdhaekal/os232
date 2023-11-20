@@ -71,5 +71,14 @@ These will explain what is shared memory and how it works.
 * [IPC through Shared Memory](https://www.javatpoint.com/ipc-through-shared-memory) --- Inter-process Communication through shared memory
 These will help you understand application of shared memory in Inter-process Communication (IPC).
 
+* [Shortest Remaining Time First (Preemptive SJF) Scheduling Algorithm](https://www.geeksforgeeks.org/shortest-remaining-time-first-preemptive-sjf-scheduling-algorithm/) -- SRTF Algorithm
+These will help you understand and learn how to implement Shortest Remaning Time First Scheduling Algorithm.
+
+* [Program for Shortest Job First (or SJF) CPU Scheduling | Set 1 (Non- preemptive)](https://www.geeksforgeeks.org/program-for-shortest-job-first-or-sjf-cpu-scheduling-set-1-non-preemptive/) -- SJF
+These will help you understand how SJF works.
+
+* [First Come First Serve](https://www.geeksforgeeks.org/first-come-first-serve-cpu-scheduling-non-preemptive/) -- FCFS
+These will help you undestand and learn how to implement First Come First Server.
+
 <br>
 <hr> 
